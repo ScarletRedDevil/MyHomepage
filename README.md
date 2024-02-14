@@ -37,7 +37,7 @@
 <img src="https://raw.githubusercontent.com/scarletreddevil/scarletreddevil/output/snake.svg" alt="Snake animation" />
 
 ###
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=bn8osw501zqdhr6l0nnmobwyn)
 <div align="center">
   <a href="https://open.spotify.com/user/scarletreddevil">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=scarletreddevil&count=5&unique=false" alt="Spotify recently played"  />
