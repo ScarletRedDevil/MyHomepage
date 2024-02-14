@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i2.ruliweb.net/ori/23/01/18/185c27c55bee7950.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -32,22 +28,16 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="150" src="https://i2.ruliweb.net/ori/23/01/18/185c27c55bee7950.gif"  />
+
+###
 
 <img src="https://raw.githubusercontent.com/scarletreddevil/scarletreddevil/output/snake.svg" alt="Snake animation" />
 
 ###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=bn8osw501zqdhr6l0nnmobwyn)
-<div align="center">
-  <a href="https://open.spotify.com/user/scarletreddevil">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=scarletreddevil&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
-###
+<br clear="both">
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/scarletreddevil/count.svg?"  />
-</div>
+<img align="left" src="https://profile-counter.glitch.me/scarletreddevil/count.svg?"  />
 
 ###
